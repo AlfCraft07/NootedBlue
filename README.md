@@ -4,6 +4,7 @@ A [Lilu](https://github.com/acidanthera/Lilu) plugin that provides support for u
 The Source Code of this Original Work is licensed under the `Thou Shalt Not Profit License version 1.0`. See [`LICENSE`](https://github.com/NootInc/NootedRed/blob/master/LICENSE)
 
 ## Current Progress:
+- Gen7: N/A
 - Haswell: Work is under way on adding Mojave patches from HSWGT1Fixup
 - Gen 8: N/A
 - Gen 9: N/A
@@ -18,6 +19,7 @@ Refer to [WhateverGreen's Framebuffer list](https://github.com/acidanthera/Whate
 - Broadwell (10.14+, work in progress)
 - Braswell (10.14+, work in progress)
 ### These Generations may be worked on in the future:
+- Ivy Bridge
 - Skylake
 - Apollo Lake
 - Kaby Lake
