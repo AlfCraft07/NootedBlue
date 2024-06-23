@@ -29,7 +29,7 @@ bool Gen7::processKext(KernelPatcher &patcher, size_t index, mach_vm_address_t a
     } else if (kextG7HW.loadIndex == index) {
         DBGLOG("gen7", "Loaded AppleIntelHD4000Graphics!");
         // TBF
-		return true;
+	return true;
     }
 
     return false;
